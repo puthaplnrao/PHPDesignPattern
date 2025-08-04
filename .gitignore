@@ -1,0 +1,46 @@
+# Composer dependencies
+/vendor/
+*.lock
+# Node dependencies
+/node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PHPStorm and other IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Logs and reports
+*.log
+*.out
+*.cache
+
+# PHPUnit
+/phpunit.xml
+/phpunit.xml.dist
+/.phpunit.result.cache
+
+# Environment files
+.env
+.env.*
+
+# Cache, sessions, uploads
+/cache/
+/sessions/
+/uploads/
+
+# Coverage reports
+/coverage/
+
+# Build artifacts
+/build/
+/dist/
+
+# User-specific files
+*.swp
+*.bak
+*.tmp

@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "designpatterns\\behavioral\\": "src/behavioral/",
+      "designpatterns\\creationalpatterns\\": "src/creationalpatterns/",
+      "designpatterns\\structural\\": "src/structural/"
+    }
+  }
+}
